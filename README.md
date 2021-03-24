@@ -5,7 +5,7 @@ Hello
 KIndly Switch to master if you can't see the code
 
 
-This is my final solution for the rise technical test
+This is my final solution for the rise technical test using a class based approach. OOP
 
 To run this project locally:
 
