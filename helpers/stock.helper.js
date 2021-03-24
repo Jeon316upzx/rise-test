@@ -22,7 +22,7 @@ class Stock {
       return items;
     }, {});
 
-    //return in Array-like format
+    //return in Array-like format.
     const itemArrays = Object.keys(items).map((date) => {
       return {
         date,
