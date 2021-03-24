@@ -23,7 +23,7 @@ Given the mixed nature of the goal plan, the plan's performance in terms of retu
 The Solutions I came up with especially when calculating the stock assets daily performance and grouping the stock data by date are in O(n2) cause of the loop in loop and 2(O)n respectively. 
 
 
-Kindly toggle the protected variable in the protected middleware to be able to get the returns
+Kindly toggle the protected variable in the protected middleware to false to be able to get the returns
 
 Endpoints: 
 
